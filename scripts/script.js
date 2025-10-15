@@ -125,3 +125,4 @@ document.getElementById('q-form-id').addEventListener('click', function() {
 }
 
 alert("HELLO!");
+console.log("Другое тестовое сообщение");

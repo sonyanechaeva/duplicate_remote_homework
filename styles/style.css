@@ -47,7 +47,7 @@ body{
 .img-form{
     float: right;
     display: flex;
-    background: #fbb3ba;
+    background: #ffffff;
     width: 50%;
     min-height: 100vh;
     flex-grow: 1;
